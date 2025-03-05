@@ -1,5 +1,5 @@
 <?php
-// Gabungan semua kode dalam satu file PHP tanpa CodeIgniter
+// 
 
 $servername = "localhost";
 $username = "root";
